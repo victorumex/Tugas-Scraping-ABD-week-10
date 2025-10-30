@@ -1,0 +1,13 @@
+# Virtual Environment
+.venv/
+
+# Cache Python
+__pycache__/
+*.pyc
+
+# Folder Scrapy
+.scrapy/
+
+# Hasil Scrape
+*.csv
+*.json
